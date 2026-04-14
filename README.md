@@ -241,18 +241,78 @@
 > 🤖 **Auto-updated daily** by `waka.yml` — tracks every keystroke you write in VS Code
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.44%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 41.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
 ```text
-🔧 WakaTime not set up yet. Once active, this shows:
-
-Python           ████████████████░░░░   75.3 %   12 hrs 45 min
-JavaScript       ███░░░░░░░░░░░░░░░░░   14.2 %    2 hrs 24 min
-HTML             ██░░░░░░░░░░░░░░░░░░    8.1 %    1 hr  22 min
-CSS              ░░░░░░░░░░░░░░░░░░░░    2.4 %       24 min
-
-💻 Editor: VS Code   🖥️ OS: Linux   ⌚ Timezone: Asia/Kolkata
-
-→ Setup: wakatime.com → install VS Code extension → add WAKATIME_API_KEY secret
+🌞 Morning                6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌆 Daytime                10 commits          █████████░░░░░░░░░░░░░░░░   34.48 % 
+🌃 Evening                12 commits          ██████████░░░░░░░░░░░░░░░   41.38 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   10 commits          █████████░░░░░░░░░░░░░░░░   34.48 % 
+Tuesday                  11 commits          █████████░░░░░░░░░░░░░░░░   37.93 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████████████████░░░░░   80.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/04/2026 11:02:02 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -267,33 +327,38 @@ CSS              ░░░░░░░░░░░░░░░░░░░░   
 > New repos appear here automatically within 24 hours of creation — or instantly via manual trigger.
 
 <!--START_SECTION:projects-->
+> 🤖 **Auto-updated:** `2026-04-14 11:01 UTC` — reflects all public repos in real time
+
+
 | # | 📦 Repository | 📝 Description | 🛠️ Language | ⭐ Stars | 🍴 Forks | 🕐 Last Push |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|
-| 1 | [**my-teachease-website-**](https://github.com/Yashdahiya19/my-teachease-website-) | AI education platform for teachers, students & parents | ⚡ `JavaScript` | — | — | `Apr 06, 2025` |
-| 2 | [**Python-Projects**](https://github.com/Yashdahiya19/Python-Projects) | Collection of Python projects and exercises | 🐍 `Python` | — | — | `Mar 16, 2026` |
-| 3 | [**CODE-A-NOVA-main**](https://github.com/Yashdahiya19/CODE-A-NOVA-main) | Large Python hackathon project (41MB) | 🐍 `Python` | — | — | `Mar 16, 2026` |
-| 4 | [**forage-midas**](https://github.com/Yashdahiya19/forage-midas) *(fork)* | JPMC Advanced Software Engineering Forage | 💻 `—` | — | — | `—` |
-| 5 | [**yash_data**](https://github.com/Yashdahiya19/yash_data) | Personal data & project repo | 💻 `—` | — | — | `—` |
+| 1 | [**CODE-A-NOVA-main**](https://github.com/Yashdahiya19/CODE-A-NOVA-main) | — | 🐍 `Python` | — | — | `Apr 13, 2026` |
+| 2 | [**autostream-agent**](https://github.com/Yashdahiya19/autostream-agent) | — | 🐍 `Python` | — | — | `Apr 12, 2026` |
+| 3 | [**Python-Projects**](https://github.com/Yashdahiya19/Python-Projects) | — | 🐍 `Python` | — | — | `Mar 16, 2026` |
+| 4 | [**my-teachease-website-**](https://github.com/Yashdahiya19/my-teachease-website-) | ​Teachease is a web-based platform designed to streamline communication and mana | ⚡ `JavaScript` | — | — | `Apr 06, 2025` |
+| 5 | [**forage-midas**](https://github.com/Yashdahiya19/forage-midas) *(fork)* | Project repo for the JPMC Advanced Software Engineering Forage program | 💻 `—` | — | — | `Aug 15, 2024` |
 
 ### 🔥 Top Repos — Auto-picked by Latest Activity
 
 <div align="center">
 
-<a href="https://github.com/Yashdahiya19/my-teachease-website-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=my-teachease-website-&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/Yashdahiya19/Python-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
-</a>
-<br/><br/>
 <a href="https://github.com/Yashdahiya19/CODE-A-NOVA-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=CODE-A-NOVA-main&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
 &nbsp;
-<a href="https://github.com/Yashdahiya19/forage-midas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=forage-midas&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+<a href="https://github.com/Yashdahiya19/autostream-agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=autostream-agent&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
+&nbsp;
+<br/><br/>
+<a href="https://github.com/Yashdahiya19/Python-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+</a>
+&nbsp;
+<a href="https://github.com/Yashdahiya19/my-teachease-website-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=my-teachease-website-&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+</a>
+&nbsp;
 <br/><br/>
 
 </div>
