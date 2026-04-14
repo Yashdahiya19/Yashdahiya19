@@ -1,0 +1,83 @@
+name: 📈 GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Daily at 2 AM UTC
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+
+      # ── 1. Base overview: activity, habits, calendar ─────────────────
+      - name: Base Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Yashdahiya19
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_output: svg
+          filename: metrics.base.svg
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # ── 2. Languages deep dive ────────────────────────────────────────
+      - name: Language Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Yashdahiya19
+          base: ""
+          filename: metrics.languages.svg
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, dockerfile, makefile
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+
+      # ── 3. All achievements ───────────────────────────────────────────
+      - name: Achievement Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Yashdahiya19
+          base: ""
+          filename: metrics.achievements.svg
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 0
+
+      # ── 4. Full-year calendar heatmap ─────────────────────────────────
+      - name: Calendar Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Yashdahiya19
+          base: ""
+          filename: metrics.calendar.svg
+          plugin_calendar: yes
+          plugin_calendar_limit: 2
+
+# ─── SETUP ───────────────────────────────────────────────────────────────
+# 1. Go to: github.com/settings/tokens/new
+# 2. Name: METRICS_TOKEN
+# 3. Select scopes: ✅ repo  ✅ read:user  ✅ read:org
+# 4. Generate → copy the token
+# 5. Add to repo: Settings → Secrets → Actions → New secret
+#    Name: METRICS_TOKEN   Value: (paste token)
+# 6. Go to Actions → "📈 GitHub Metrics" → Run workflow (first time)
