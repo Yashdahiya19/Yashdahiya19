@@ -36,7 +36,7 @@ jobs:
       - name: Language Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           user: Yashdahiya19
           base: ""
           filename: metrics.languages.svg
