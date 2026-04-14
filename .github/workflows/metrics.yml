@@ -17,7 +17,7 @@ jobs:
       - name: Base Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           user: Yashdahiya19
           template: classic
           base: header, activity, community, repositories, metadata
@@ -52,7 +52,7 @@ jobs:
       - name: Achievement Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           user: Yashdahiya19
           base: ""
           filename: metrics.achievements.svg
@@ -66,7 +66,7 @@ jobs:
       - name: Calendar Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           user: Yashdahiya19
           base: ""
           filename: metrics.calendar.svg
