@@ -267,33 +267,38 @@ CSS              ░░░░░░░░░░░░░░░░░░░░   
 > New repos appear here automatically within 24 hours of creation — or instantly via manual trigger.
 
 <!--START_SECTION:projects-->
+> 🤖 **Auto-updated:** `2026-04-14 09:09 UTC` — reflects all public repos in real time
+
+
 | # | 📦 Repository | 📝 Description | 🛠️ Language | ⭐ Stars | 🍴 Forks | 🕐 Last Push |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|
-| 1 | [**my-teachease-website-**](https://github.com/Yashdahiya19/my-teachease-website-) | AI education platform for teachers, students & parents | ⚡ `JavaScript` | — | — | `Apr 06, 2025` |
-| 2 | [**Python-Projects**](https://github.com/Yashdahiya19/Python-Projects) | Collection of Python projects and exercises | 🐍 `Python` | — | — | `Mar 16, 2026` |
-| 3 | [**CODE-A-NOVA-main**](https://github.com/Yashdahiya19/CODE-A-NOVA-main) | Large Python hackathon project (41MB) | 🐍 `Python` | — | — | `Mar 16, 2026` |
-| 4 | [**forage-midas**](https://github.com/Yashdahiya19/forage-midas) *(fork)* | JPMC Advanced Software Engineering Forage | 💻 `—` | — | — | `—` |
-| 5 | [**yash_data**](https://github.com/Yashdahiya19/yash_data) | Personal data & project repo | 💻 `—` | — | — | `—` |
+| 1 | [**CODE-A-NOVA-main**](https://github.com/Yashdahiya19/CODE-A-NOVA-main) | — | 🐍 `Python` | — | — | `Apr 13, 2026` |
+| 2 | [**autostream-agent**](https://github.com/Yashdahiya19/autostream-agent) | — | 🐍 `Python` | — | — | `Apr 12, 2026` |
+| 3 | [**Python-Projects**](https://github.com/Yashdahiya19/Python-Projects) | — | 🐍 `Python` | — | — | `Mar 16, 2026` |
+| 4 | [**my-teachease-website-**](https://github.com/Yashdahiya19/my-teachease-website-) | ​Teachease is a web-based platform designed to streamline communication and mana | ⚡ `JavaScript` | — | — | `Apr 06, 2025` |
+| 5 | [**forage-midas**](https://github.com/Yashdahiya19/forage-midas) *(fork)* | Project repo for the JPMC Advanced Software Engineering Forage program | 💻 `—` | — | — | `Aug 15, 2024` |
 
 ### 🔥 Top Repos — Auto-picked by Latest Activity
 
 <div align="center">
 
-<a href="https://github.com/Yashdahiya19/my-teachease-website-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=my-teachease-website-&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
-</a>
-&nbsp;
-<a href="https://github.com/Yashdahiya19/Python-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
-</a>
-<br/><br/>
 <a href="https://github.com/Yashdahiya19/CODE-A-NOVA-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=CODE-A-NOVA-main&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
 &nbsp;
-<a href="https://github.com/Yashdahiya19/forage-midas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=forage-midas&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+<a href="https://github.com/Yashdahiya19/autostream-agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=autostream-agent&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
+&nbsp;
+<br/><br/>
+<a href="https://github.com/Yashdahiya19/Python-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+</a>
+&nbsp;
+<a href="https://github.com/Yashdahiya19/my-teachease-website-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=my-teachease-website-&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+</a>
+&nbsp;
 <br/><br/>
 
 </div>
