@@ -241,18 +241,78 @@
 > 🤖 **Auto-updated daily** by `waka.yml` — tracks every keystroke you write in VS Code
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.43%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 41.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-🔧 WakaTime not set up yet. Once active, this shows:
-
-Python           ████████████████░░░░   75.3 %   12 hrs 45 min
-JavaScript       ███░░░░░░░░░░░░░░░░░   14.2 %    2 hrs 24 min
-HTML             ██░░░░░░░░░░░░░░░░░░    8.1 %    1 hr  22 min
-CSS              ░░░░░░░░░░░░░░░░░░░░    2.4 %       24 min
-
-💻 Editor: VS Code   🖥️ OS: Linux   ⌚ Timezone: Asia/Kolkata
-
-→ Setup: wakatime.com → install VS Code extension → add WAKATIME_API_KEY secret
+🌞 Morning                6 commits           ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌆 Daytime                6 commits           ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌃 Evening                12 commits          ████████████░░░░░░░░░░░░░   48.00 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   10 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Tuesday                  7 commits           ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   6 commits           ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████████████████░░░░░   80.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/04/2026 10:21:28 UTC
 <!--END_SECTION:waka-->
 
 ---
