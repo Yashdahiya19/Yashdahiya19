@@ -241,7 +241,9 @@
 > 🤖 **Auto-updated daily** by `waka.yml` — tracks every keystroke you write in VS Code
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.62%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -257,6 +259,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌆 Daytime                20 commits          █████████████░░░░░░░░░░░░   51.28 % 
+🌃 Evening                12 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   10 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Tuesday                  21 commits          █████████████░░░░░░░░░░░░   53.85 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -271,7 +312,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 19:49:30 UTC
+ Last Updated on 15/04/2026 19:49:56 UTC
 <!--END_SECTION:waka-->
 
 ---
