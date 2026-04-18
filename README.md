@@ -241,7 +241,7 @@
 > 🤖 **Auto-updated daily** by `waka.yml` — tracks every keystroke you write in VS Code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue?style=flat)
 
@@ -249,7 +249,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 42.6 kB Used in GitHub's Storage 
+> 📦 42.7 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -286,16 +286,19 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             █████████████░░░░░░░░░░░░   53.36 % 
+Markdown                 10 mins             █████████░░░░░░░░░░░░░░░░   34.01 % 
+Git                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CODE-A-NOVA-main         29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -312,7 +315,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 19:39:27 UTC
+ Last Updated on 18/04/2026 19:24:15 UTC
 <!--END_SECTION:waka-->
 
 ---
