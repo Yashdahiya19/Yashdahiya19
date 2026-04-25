@@ -249,7 +249,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 42.7 kB Used in GitHub's Storage 
+> 📦 42.8 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -286,19 +286,16 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   15 mins             █████████████░░░░░░░░░░░░   53.36 % 
-Markdown                 10 mins             █████████░░░░░░░░░░░░░░░░   34.01 % 
-Git                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CODE-A-NOVA-main         29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -315,7 +312,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2026 19:30:50 UTC
+ Last Updated on 25/04/2026 19:27:31 UTC
 <!--END_SECTION:waka-->
 
 ---
