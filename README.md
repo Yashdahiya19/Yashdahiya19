@@ -249,7 +249,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 43.1 kB Used in GitHub's Storage 
+> 📦 43.2 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -301,8 +301,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████████████████░░░░░   80.00 % 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             █████████████████░░░░░░░░   66.67 % 
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -312,7 +312,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 19:51:52 UTC
+ Last Updated on 06/07/2026 20:25:41 UTC
 <!--END_SECTION:waka-->
 
 ---
