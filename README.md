@@ -241,8 +241,6 @@
 > 🤖 **Auto-updated daily** by `waka.yml` — tracks every keystroke you write in VS Code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.88%20thousand%20lines%20of%20code-blue?style=flat)
@@ -286,16 +284,16 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+New folder               40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -312,7 +310,7 @@ JavaScript               2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:04:31 UTC
+ Last Updated on 09/07/2026 20:21:10 UTC
 <!--END_SECTION:waka-->
 
 ---
