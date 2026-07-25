@@ -241,13 +241,15 @@
 > 🤖 **Auto-updated daily** by `waka.yml` — tracks every keystroke you write in VS Code
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 43.1 kB Used in GitHub's Storage 
+> 📦 43.2 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -257,6 +259,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                21 commits          ██████████████░░░░░░░░░░░   55.26 % 
+🌃 Evening                16 commits          ███████████░░░░░░░░░░░░░░   42.11 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  22 commits          ██████████████░░░░░░░░░░░   57.89 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   35 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  35 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+frontend                 35 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  35 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -271,7 +312,7 @@ JavaScript               2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:56:11 UTC
+ Last Updated on 25/07/2026 19:44:08 UTC
 <!--END_SECTION:waka-->
 
 ---
