@@ -251,7 +251,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 43.9 kB Used in GitHub's Storage 
+> 📦 43.1 kB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -320,7 +320,7 @@ JavaScript               2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:43:41 UTC
+ Last Updated on 04/08/2026 20:09:41 UTC
 <!--END_SECTION:waka-->
 
 ---
