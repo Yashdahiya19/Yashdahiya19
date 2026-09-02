@@ -335,34 +335,40 @@ JavaScript               2 repos             ████████░░░�
 > New repos appear here automatically within 24 hours of creation — or instantly via manual trigger.
 
 <!--START_SECTION:projects-->
-> 🤖 **Auto-updated:** `2026-09-01 08:25 UTC` — reflects all public repos in real time
+> 🤖 **Auto-updated:** `2026-09-02 07:44 UTC` — reflects all public repos in real time
 
 
 | # | 📦 Repository | 📝 Description | 🛠️ Language | ⭐ Stars | 🍴 Forks | 🕐 Last Push |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|
-| 1 | [**CODE-A-NOVA-main**](https://github.com/Yashdahiya19/CODE-A-NOVA-main) | — | 🐍 `Python` | — | — | `Apr 17, 2026` |
-| 2 | [**autostream-agent**](https://github.com/Yashdahiya19/autostream-agent) | — | 🐍 `Python` | — | — | `Apr 12, 2026` |
-| 3 | [**Python-Projects**](https://github.com/Yashdahiya19/Python-Projects) | — | 🐍 `Python` | — | — | `Mar 16, 2026` |
-| 4 | [**my-teachease-website-**](https://github.com/Yashdahiya19/my-teachease-website-) | ​Teachease is a web-based platform designed to streamline communication and mana | ⚡ `JavaScript` | — | — | `Apr 06, 2025` |
-| 5 | [**forage-midas**](https://github.com/Yashdahiya19/forage-midas) *(fork)* | Project repo for the JPMC Advanced Software Engineering Forage program | 💻 `—` | — | — | `Aug 15, 2024` |
+| 1 | [**Aelvo**](https://github.com/Yashdahiya19/Aelvo) | — | 💻 `—` | — | — | `Sep 01, 2026` |
+| 2 | [**CODE-A-NOVA-main**](https://github.com/Yashdahiya19/CODE-A-NOVA-main) | — | 🐍 `Python` | — | — | `Apr 17, 2026` |
+| 3 | [**autostream-agent**](https://github.com/Yashdahiya19/autostream-agent) | — | 🐍 `Python` | — | — | `Apr 12, 2026` |
+| 4 | [**Python-Projects**](https://github.com/Yashdahiya19/Python-Projects) | — | 🐍 `Python` | — | — | `Mar 16, 2026` |
+| 5 | [**my-teachease-website-**](https://github.com/Yashdahiya19/my-teachease-website-) | ​Teachease is a web-based platform designed to streamline communication and mana | ⚡ `JavaScript` | — | — | `Apr 06, 2025` |
+| 6 | [**forage-midas**](https://github.com/Yashdahiya19/forage-midas) *(fork)* | Project repo for the JPMC Advanced Software Engineering Forage program | 💻 `—` | — | — | `Aug 15, 2024` |
 
 ### 🔥 Top Repos — Auto-picked by Latest Activity
 
 <div align="center">
 
+<a href="https://github.com/Yashdahiya19/Aelvo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=Aelvo&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
+</a>
+&nbsp;
 <a href="https://github.com/Yashdahiya19/CODE-A-NOVA-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=CODE-A-NOVA-main&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
 &nbsp;
+<br/><br/>
 <a href="https://github.com/Yashdahiya19/autostream-agent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=autostream-agent&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
 &nbsp;
-<br/><br/>
 <a href="https://github.com/Yashdahiya19/Python-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
 &nbsp;
+<br/><br/>
 <a href="https://github.com/Yashdahiya19/my-teachease-website-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashdahiya19&repo=my-teachease-website-&theme=tokyonight&hide_border=true&bg_color=050510&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&border_radius=12" />
 </a>
