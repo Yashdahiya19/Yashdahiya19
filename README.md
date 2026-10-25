@@ -251,7 +251,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 43.9 kB Used in GitHub's Storage 
+> 📦 44.0 kB Used in GitHub's Storage 
  > 
 > 🏆 62 Contributions in the Year 2026
  > 
@@ -288,30 +288,30 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 17 mins       █████████████░░░░░░░░░░░░   50.33 % 
-Markdown                 3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
-JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python                   5 hrs 5 mins        █████████████░░░░░░░░░░░░   50.09 % 
+Markdown                 3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
+JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 44 mins       ██████████████░░░░░░░░░░░   54.61 % 
-VS Code                  4 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
+Copilot CLI              5 hrs 44 mins       ██████████████░░░░░░░░░░░   56.52 % 
+VS Code                  4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
 
 🐱‍💻 Projects: 
-LearnGap-AI-Complete     6 hrs 33 mins       ████████████████░░░░░░░░░   62.35 % 
-File organiser           3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
+LearnGap-AI-Complete     6 hrs 33 mins       ████████████████░░░░░░░░░   64.53 % 
+File organiser           3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
 
 💻 Operating System: 
-Windows                  10 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (55.67%)
+⏱ AI Coding Time: 5 hrs 50 mins (57.62%)
 
-✍️ 3,190 lines written by AI, 261 lines written by hand (92.44% AI-written)
+✍️ 3,190 lines written by AI, 239 lines written by hand (93.03% AI-written)
 
 🔤 981,681 Input Tokens, 230,845 Output Tokens
 
@@ -322,10 +322,10 @@ Windows                  10 hrs 30 mins      ███████████�
 GPT                      3,650 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.44% of written lines came from AI
+🤖 AI-Driven — 93.03% of written lines came from AI
 📝 Concise Prompter — average 481 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.55% of changed lines were hand-edited
+🚀 High AI Trust — 7.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -342,7 +342,7 @@ JavaScript               2 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 21:05:40 UTC
+ Last Updated on 25/10/2026 21:07:13 UTC
 <!--END_SECTION:waka-->
 
 ---
