@@ -251,7 +251,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 44.0 kB Used in GitHub's Storage 
+> 📦 44.1 kB Used in GitHub's Storage 
  > 
 > 🏆 62 Contributions in the Year 2026
  > 
@@ -288,43 +288,43 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       █████████████░░░░░░░░░░░░   52.60 % 
-Python                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 2 hrs 4 mins        ██████████████░░░░░░░░░░░   56.16 % 
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 44 mins       ██████████████████████░░░   87.58 % 
-VS Code                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Copilot CLI              3 hrs 12 mins       ██████████████████████░░░   87.27 % 
+VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 
 🐱‍💻 Projects: 
-LearnGap-AI-Complete     6 hrs 33 mins       █████████████████████████   100.00 % 
+LearnGap-AI-Complete     3 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (89.29%)
+⏱ AI Coding Time: 3 hrs 15 mins (88.45%)
 
-✍️ 3,190 lines written by AI, 7 lines written by hand (99.78% AI-written)
+✍️ 1,413 lines written by AI, 1 lines written by hand (99.93% AI-written)
 
 🔤 981,681 Input Tokens, 230,845 Output Tokens
 
 💵 $0.61 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-GPT                      3,650 lines         █████████████████████████   100.00 % 
+GPT                      1,784 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 481 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 346 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -341,7 +341,7 @@ JavaScript               2 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:49:44 UTC
+ Last Updated on 27/10/2026 22:30:06 UTC
 <!--END_SECTION:waka-->
 
 ---
