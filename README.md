@@ -245,13 +245,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.42%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.1 kB Used in GitHub's Storage 
+> 📦 44.2 kB Used in GitHub's Storage 
  > 
 > 🏆 62 Contributions in the Year 2026
  > 
@@ -288,43 +288,22 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 4 mins        ██████████████░░░░░░░░░░░   56.16 % 
-Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Copilot CLI              3 hrs 12 mins       ██████████████████████░░░   87.27 % 
-VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Copilot CLI              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LearnGap-AI-Complete     3 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 15 mins (88.45%)
-
-✍️ 1,413 lines written by AI, 1 lines written by hand (99.93% AI-written)
-
-🔤 981,681 Input Tokens, 230,845 Output Tokens
-
-💵 $0.61 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-GPT                      1,784 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 346 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -341,7 +320,7 @@ JavaScript               2 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yashdahiya19/Yashdahiya19/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:30:06 UTC
+ Last Updated on 28/10/2026 22:45:57 UTC
 <!--END_SECTION:waka-->
 
 ---
